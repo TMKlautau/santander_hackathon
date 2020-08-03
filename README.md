@@ -18,6 +18,7 @@
 Plataforma web onde os usuários acessarão a nossa solução:
 
 Acesse aqui: https://datasight.glitch.me/
+ (selecionando a categoria "Móveis e decorações" você seguirá para a página onde mostrará o dashboard, não é necessário preencher nenhum dado)
 
 Repositório: https://github.com/riibeirogabriel/DataSight
 
@@ -64,3 +65,6 @@ The price of creation of this dataset is low and everything needed is openly ava
 * Tito Klautau - Data Scientist
 * Gabrieli Pavlack - Frontend
 * Léo David Cunha - Business 
+
+---
+---
