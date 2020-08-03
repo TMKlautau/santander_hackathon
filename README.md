@@ -41,6 +41,9 @@ Repositório: https://github.com/riibeirogabriel/DataSight
 * https://covid.saude.gov.br/
 * https://trends.google.com/trends/
 
+---
+---
+
 ## 🧐 Descrição / Description
 
 Plataforma de INSIGHTS baseada nas pesquisas de palavras-chaves dos consumidores, tendências de consumo, produtos e serviços, com a opção de comparação de cenários operacionais para pequenas e medias empresas tomarem decisões mais assertivas.
