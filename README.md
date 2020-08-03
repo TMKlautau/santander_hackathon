@@ -13,7 +13,7 @@
 
 </div>
 
-## :page_with_curl: Front-end
+## :computer: Front-end
 
 Plataforma web onde os usuários acessarão a nossa solução:
 
