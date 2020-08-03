@@ -12,6 +12,15 @@
 [![Site](https://img.shields.io/badge/Clique%20me-%20para%20visualizar%20a%20plataforma-brightgreen)](https://datasight.glitch.me/)
 
 </div>
+---
+---
+
+## Front-end Repository
+
+https://github.com/riibeirogabriel/DataSight
+
+---
+---
 
 ## ⛏️ Tecnologias utilizadas / Technologies Used
 * HTML
