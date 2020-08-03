@@ -12,25 +12,34 @@
 [![Site](https://img.shields.io/badge/Clique%20me-%20para%20visualizar%20a%20plataforma-brightgreen)](https://datasight.glitch.me/)
 
 </div>
----
----
 
-## Front-end Repository
+## :page_with_curl: Front-end
 
-https://github.com/riibeirogabriel/DataSight
+Plataforma web onde os usuários acessarão a nossa solução:
+
+Acesse aqui: https://datasight.glitch.me/
+
+Repositório: https://github.com/riibeirogabriel/DataSight
 
 ---
 ---
 
 ## ⛏️ Tecnologias utilizadas / Technologies Used
+
 * HTML
 * CSS
+* Bootstrap
 * glitch
 * Python
 * Jupyter Notebooks
 
 ---
 ---
+
+## :chart_with_upwards_trend: Fontes de dados / Data Scources
+
+* https://covid.saude.gov.br/
+* https://trends.google.com/trends/
 
 ## 🧐 Descrição / Description
 
